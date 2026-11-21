@@ -76,3 +76,53 @@ The analysis covers equities, derivatives, and bond instruments, along with corp
 
 * `Capital market and corporate Action Data Analysis.ipynb` — the full analysis notebook
 * `Capital Market and Corporate Action.pbix` — the Power BI dashboard
+* `final_market_with_actions.xls` — the combined output dataset
+* Note: the notebook reads `yahoo_data.xlsx`, `capital_market_dataset.csv` and `corporate_actions.csv`. These input files are not included, so the notebook cannot be re-run end-to-end from this repo alone.
+
+---
+
+## 📊 Key Insights
+
+* Market volatility increases during corporate action events
+* Trading volume spikes align with dividend announcements
+* Moving averages indicate trend reversals and price momentum
+* Corporate actions significantly influence short-term returns
+
+---
+
+## 📈 Dashboard Features
+
+* Market Price Trend Analysis
+* Moving Average Indicators
+* Volatility (Market Risk) Tracking
+* Trading Volume Analysis
+* Corporate Action Impact (Returns & Volume)
+* Interactive Filters (Date, Corporate Action Type)
+
+---
+
+## 📷 Dashboard Preview
+
+Capital Market and Corporate Action
+
+---
+
+## 💼 Business Relevance
+
+This project demonstrates how financial analysts:
+
+* Monitor market performance and trend
+* Validate and clean market data
+* Analyze corporate actions and their impact
+* Support data-driven investment decisions
+
+## 👤 Author
+
+**Harshvardhan Dubey**
+Aspiring Business Analyst | Data Analyst
+
+---
+
+## ⭐ Support
+
+If you found this project insightful, consider giving it a ⭐ and connecting with me on LinkedIn!
