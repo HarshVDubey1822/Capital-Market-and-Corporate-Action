@@ -74,9 +74,9 @@ The analysis covers equities, derivatives, and bond instruments, along with corp
 
 ## 📁 Files in this repo
 
-* `Capital market and corporate Action Data Analysis.ipynb` — the full analysis notebook
-* `Capital Market and Corporate Action.pbix` — the Power BI dashboard
-* `final_market_with_actions.xls` — the combined output dataset
+* `Capital market and corporate Action Data Analysis.ipynb`: the full analysis notebook
+* `Capital Market and Corporate Action.pbix`: the Power BI dashboard
+* `final_market_with_actions.xls`: the combined output dataset
 * Note: the notebook reads `yahoo_data.xlsx`, `capital_market_dataset.csv` and `corporate_actions.csv`. These input files are not included, so the notebook cannot be re-run end-to-end from this repo alone.
 
 ---
