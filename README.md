@@ -1,5 +1,5 @@
 # Capital-Market-and-Corporate-Action
-Capital Markets &amp; Corporate Actions Analysis using Python, SQL &amp; Power BI — includes EDA, pricing validation, volatility analysis, and interactive dashboard.
+Capital Markets & Corporate Actions Analysis using Python, SQL & Power BI — includes EDA, pricing validation, volatility analysis, and interactive dashboard.
 # 📊 Capital Markets & Corporate Actions Data Analysis
 
 ## 🔍 Project Overview
@@ -72,49 +72,7 @@ The analysis covers equities, derivatives, and bond instruments, along with corp
 
 ---
 
-## 📊 Key Insights
+## 📁 Files in this repo
 
-* Market volatility increases during corporate action events
-* Trading volume spikes align with dividend announcements
-* Moving averages indicate trend reversals and price momentum
-* Corporate actions significantly influence short-term returns
-
----
-
-## 📈 Dashboard Features
-
-* Market Price Trend Analysis
-* Moving Average Indicators
-* Volatility (Market Risk) Tracking
-* Trading Volume Analysis
-* Corporate Action Impact (Returns & Volume)
-* Interactive Filters (Date, Corporate Action Type)
-
----
-
-## 📷 Dashboard Preview
-
-![Capital Market and Corporate Action](https://github.com/user-attachments/assets/85d66cb5-8492-4050-9a02-d81e4ac4a817)
-
-
----
-
-## 💼 Business Relevance
-
-This project demonstrates how financial analysts:
-
-* Monitor market performance and trend
-* Validate and clean market data
-* Analyze corporate actions and their impact
-* Support data-driven investment decisions
-
-## 👤 Author
-
-**Harshvardhan Dubey**
-Aspiring Business Analyst | Data Analyst
-
----
-
-## ⭐ Support
-
-If you found this project insightful, consider giving it a ⭐ and connecting with me on LinkedIn!
+* `Capital market and corporate Action Data Analysis.ipynb` — the full analysis notebook
+* `Capital Market and Corporate Action.pbix` — the Power BI dashboard
